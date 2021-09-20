@@ -1,6 +1,6 @@
 # CRYPTO-DASHBOARD
 
-#### Aplication created by PabloTz
+#### Aplication created by Yugansh
 personal project
 
 ## Technology
